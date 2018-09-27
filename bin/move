@@ -8,6 +8,7 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Where would you like to go?"
 
-move = gets.strip
-move()
+input = gets.strip
+index = input_to_index(input)
+
 # Code your CLI Here
