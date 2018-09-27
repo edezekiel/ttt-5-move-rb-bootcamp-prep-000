@@ -2,9 +2,9 @@
 
 require_relative '../lib/move.rb'
 
-#puts "Welcome to Tic Tac Toe!"
-#puts "Where would you like to go?"
+puts "Welcome to Tic Tac Toe!"
+puts "Where would you like to go?"
 
-#move = gets.strip
-#function(move)
+move = gets.strip
+move()
 # Code your CLI Here
