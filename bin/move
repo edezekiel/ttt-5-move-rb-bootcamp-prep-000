@@ -1,9 +1,10 @@
 #!/usr/bin/env ruby
 
 require_relative '../lib/move.rb'
-puts "Welcome to Tic Tac Toe!"
-puts "Where would you like to go?"
 
-move = gets.strip
-function(move)
+#puts "Welcome to Tic Tac Toe!"
+#puts "Where would you like to go?"
+
+#move = gets.strip
+#function(move)
 # Code your CLI Here
